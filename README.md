@@ -20,6 +20,14 @@
 
 [![GPU](https://img.shields.io/badge/GPU-RTX%205060%20Laptop-black)](https://www.nvidia.com)
 
+
+<img width="2163" height="889" alt="predictions_race_pytorch" src="https://github.com/user-attachments/assets/3d38911e-fe97-4fe5-94b0-7a917f53d8ca" />
+
+
+<img width="2232" height="768" alt="training_history_pytorch" src="https://github.com/user-attachments/assets/5acd2819-7579-4e89-93f3-fb0d3d5b05f3" />
+
+
+
 ## Highlights
 - Full Blackwell (sm_120) support via PyTorch nightly + CUDA 12.8
 - No more compatibility warnings
