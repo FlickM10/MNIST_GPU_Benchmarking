@@ -2,6 +2,9 @@
 
 ## 🚀 MNIST CNN Training Race — RTX 5060 Laptop (Blackwell) Beats Kaggle P100!
 
+[![PyTorch](https://img.shields.io/badge/PyTorch-Nightly%20cu128-orange)](https://pytorch.org)
+[![Time](https://img.shields.io/badge/Time-17.07s-brightgreen)](https://github.com)
+
 **Date**: January 2026  
 **Hardware**: NVIDIA GeForce RTX 5060 Laptop GPU (Blackwell architecture, sm_120)  
 **Framework**: PyTorch Nightly (2.11.0.dev + cu128)
@@ -14,6 +17,8 @@
 | Kaggle                | Tesla P100 (Pascal)        | 22.87 seconds          | 2.29s         | 99.34%        |
 
 **Winner: RTX 5060 Laptop — 25% faster than a 2016 datacenter GPU!** 🔥
+
+[![GPU](https://img.shields.io/badge/GPU-RTX%205060%20Laptop-black)](https://www.nvidia.com)
 
 ## Highlights
 - Full Blackwell (sm_120) support via PyTorch nightly + CUDA 12.8
